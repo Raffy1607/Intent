@@ -15,7 +15,7 @@
         android:id="@+id/btn_move_activity"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:layout_marginTop="16dp"
         android:text="Pindah Activity">
 
     </Button>
@@ -33,7 +33,7 @@
         android:id="@+id/btn_dial_number"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:layout_marginTop="16dp"
         android:text="Dial a Number">
 
     </Button>
